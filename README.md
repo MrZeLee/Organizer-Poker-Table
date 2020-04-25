@@ -1,5 +1,7 @@
 # Organizer-Poker-Table
 Script for AutoHotkey to Manage Poker Tables (Work in Progress)
+
+![](Table-Organizer.gif)
 ## Right now
 The script only supports 6 tables view, but if minimized cycles the ones in background, and it filters the windows with a Key-word "Hold" that can be altered in the file.
 ## To the Future
