@@ -1,5 +1,5 @@
 # Organizer-Poker-Table
-Script for AutoHotkey to Manage Poker Tables (Work in Progress)
+Script for AutoHotkey to Manage Poker Tables
 
 ![](Table-Organizer.gif)
 ## Right now
@@ -23,7 +23,3 @@ or
 Pull requests are welcome.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-## Donation
-If this project helps you , consider donating :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K9WWS94VGLKBW&source=url)
